@@ -1,0 +1,12 @@
+*{
+    font-family: sans-serif;
+}
+
+.container{
+    background: rgb(14, 13, 13);
+}
+h1{
+    background: rgb(235, 235, 148);
+    font-size: 20px;
+    text-shadow: 2px 2px 3px;
+}
